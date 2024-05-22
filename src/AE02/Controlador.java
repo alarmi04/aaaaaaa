@@ -14,7 +14,7 @@ public class Controlador {
 
     /**
      * Constructor del controlador que establece las conexiones entre el modelo y la vista.
-     *
+     *a
      * @param m Modelo
      * @param v Vista
      */
